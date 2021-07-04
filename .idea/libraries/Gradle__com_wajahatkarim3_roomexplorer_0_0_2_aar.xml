@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wajahatkarim3:roomexplorer:0.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/roomexplorer-0.0.2.aar/12b514be69370630b7b72130f3e73bdd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/roomexplorer-0.0.2.aar/12b514be69370630b7b72130f3e73bdd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/roomexplorer-0.0.2.aar/12b514be69370630b7b72130f3e73bdd/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wajahatkarim3/roomexplorer/0.0.2/a0ca4adb65a96734dd9083e1835018aacd1ff25d/roomexplorer-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wajahatkarim3/roomexplorer/0.0.2/5eede7d8858925a67e566488ae0de957809633af/roomexplorer-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
